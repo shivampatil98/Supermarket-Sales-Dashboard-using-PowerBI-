@@ -1,6 +1,6 @@
 # Supermarket-Sales-Dashboard-using-PowerBI-
 
-🚀#Project Overview
+#🚀Project Overview
 
 This project is presented as an end-to-end data analytics case study that demonstrates expertise in data cleaning, transformation, visualization, and insight generation.
 
