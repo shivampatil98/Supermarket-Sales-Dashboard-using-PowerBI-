@@ -1,4 +1,4 @@
-# Supermarket-Sales-Dashboard-using-PowerBI-
+# Supermarket-Sales-Analytics
 
 ##  🚀Project Overview
 
