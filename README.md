@@ -1,4 +1,4 @@
-# Supermarket-Sales-Analytics
+# Supermarket Sales Analytics
 
 ##  🚀Project Overview
 
