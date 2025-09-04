@@ -1,6 +1,6 @@
 # Supermarket-Sales-Dashboard-using-PowerBI-
 
-##🚀 Project Overview
+##  🚀Project Overview
 
 This project is presented as an end-to-end data analytics case study that demonstrates expertise in data cleaning, transformation, visualization, and insight generation.
 
@@ -11,7 +11,7 @@ Raw sales data is processed using Excel and Power BI, and an interactive dashboa
 - Time-series performance trends
 - Actionable insights for margin improvement and growth
 
-##📈 Key Insights
+##  📈Key Insights
 
 -Sales Performance → Top-performing and underperforming categories are identified
 -Customer Segmentation → Patterns are revealed across demographics and purchase behaviors
